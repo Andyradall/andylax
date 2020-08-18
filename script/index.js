@@ -15,7 +15,7 @@ imagesLoaded( document.querySelector('#container'), function( instance ) {
 
 // Innstilling for animasjonslengde
 const animasjonSettings = {
-    duration: 48000,
+    duration: 50000,
     fill: "both"
 }
 
